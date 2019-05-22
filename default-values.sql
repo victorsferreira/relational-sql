@@ -1,0 +1,1 @@
+SELECT COALESCE(col, 0) AS result FROM myTable 
